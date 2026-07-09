@@ -1,4 +1,4 @@
-# `About Me`
+# `Welcome`
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Developer+%F0%9F%92%BB;Vibe+Coding+Enthusiast+%F0%9F%8E%A7;14+Years+Old+%F0%9F%94%A5;From+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
@@ -20,9 +20,8 @@ Gwa mulai karir jadi developer taun **2025** jir newbie bgt 😹. Berawal dari m
 
 ---
 
-### ⚡ Tech Stack & Tools
+### Stack & Tools
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a>
@@ -70,18 +69,8 @@ Gwa mulai karir jadi developer taun **2025** jir newbie bgt 😹. Berawal dari m
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danzzzzgantengbgt&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danzzzzgantengbgt&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/danzzzzgantengbgt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="danzzzzgantengbgt" height="30" width="40" /></a>
   <a href="https://instagram.com/itsmecrawford_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmecrawford_" height="30" width="40" /></a>

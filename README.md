@@ -1,4 +1,4 @@
-# `Welcome😹`
+# `Welcome`
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Developer+%F0%9F%92%BB;Vibe+Coding+Enthusiast+%F0%9F%8E%A7;14+Years+Old+%F0%9F%94%A5;From+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />

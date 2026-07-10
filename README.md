@@ -9,7 +9,7 @@
 ### 👋 About Me
 
 **Woi gwah Aldan!**  
-Gwa mulai karir jadi developer taun **2025** jir newbie bgt 😹. Berawal dari main Termux (tools fake hack akun FF itu loh), sekarang udh jadi **fullstack developer**!
+Gwa mulai karir jadi developer taun **2025** jir newbie bgt 😹. Berawal dari main bug wa, sekarang udh jadi **fullstack developer**
 
 > *"Jujur men gwa kalo tanpa AI gabisa jadi dev sekeren sekarang 🤭"*
 
